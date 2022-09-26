@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449368623815",
+    "project_id": "daily-quotes-update",
+    "storage_bucket": "daily-quotes-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449368623815:android:7eb405de3e953f47874ce2",
+        "android_client_info": {
+          "package_name": "com.pranjal.dailyquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449368623815-cus43rb5hrq5hc4tkk84sfgtf0j05jse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5rV7WgbePFA2zv2N25EAEMRbp5OQSRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449368623815-cus43rb5hrq5hc4tkk84sfgtf0j05jse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_login"
+        android:title="Login / Sign Up"
+        android:icon="@drawable/ic_login"/>
+
+    <item
+        android:id="@+id/nav_verify_Email"
+        android:title="Verify Email"
+        android:icon="@drawable/ic_verify_email"/>
+
+    <item
+        android:id="@+id/nav_saved_quotes"
+        android:title="Saved Quotes"
+        android:icon="@drawable/ic_saved_quotes"/>
+
+    <item
+        android:id="@+id/nav_my_posts"
+        android:title="My Posts"
+        android:icon="@drawable/ic_my_posts"/>
+
+    <item
+        android:id="@+id/nav_del_data"
+        android:title="Delete Data"
+        android:icon="@drawable/ic_delete"/>
+
+    <item
+        android:id="@+id/nav_log_out"
+        android:title="Log Out"
+        android:icon="@drawable/ic_logout"/>
+</menu>
